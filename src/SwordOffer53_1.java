@@ -20,14 +20,14 @@
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
 
-public class SwordOffer53 {
+public class SwordOffer53_1 {
 
     public static void main(String[] args) {
-        System.out.println(new SwordOffer53.Solution().search(new int[]{5,7,7,8,8,10}, 8));
+        System.out.println(new SwordOffer53_1.Solution().search(new int[]{5,7,7,8,8,10}, 8));
         System.out.println("----------------------------------");
-        System.out.println(new SwordOffer53.Solution1().search(new int[]{5,7,7,8,8,10}, 8));
+        System.out.println(new SwordOffer53_1.Solution1().search(new int[]{5,7,7,8,8,10}, 8));
         System.out.println("----------------------------------");
-        System.out.println(new SwordOffer53.Solution2().search(new int[]{5,7,7,8,8,10}, 8));
+        System.out.println(new SwordOffer53_1.Solution2().search(new int[]{5,7,7,8,8,10}, 8));
     }
 
     /**
